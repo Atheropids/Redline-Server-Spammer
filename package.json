@@ -1,0 +1,10 @@
+{
+  "name": "redline-spammer",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Atheropids",
+  "engines": {
+    "node": "^11.7.0"
+  },
+  "description": "Those who deliberately create malware for profits should all get tortured to death in endless pain and have their blood drained into sewers while alive."
+}
