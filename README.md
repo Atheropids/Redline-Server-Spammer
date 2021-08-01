@@ -2,10 +2,12 @@
 Spamming randomized nonsense data against Redline stealers' C&amp;C servers.  
 
 ## Brief intro
+I encountered a Redline password stealer sample that was being distributed by malicious entities using seemingly compromised Discord accounts.
+
 Screenshot of a malicious Discord spam message posted by a compromised account:  
 ![Discord spam](screenshots/img01.png)  
 
-The posted link leads to a Mediafire link that is now offline  
+The posted link leads to a Mediafire link that is now offline:  
 hxxps://www.mediafire[.]com/file/5cv89nrmer0yb7k/ESA.rar/file  
 
 VirusTotal scan of the executable in the downloaded archive:  
@@ -13,6 +15,8 @@ https://www.virustotal.com/gui/file/ed834c43c24a468fbbdf46fef36c44e0979d996b8ce1
   
 Virustotal scan of the decrypted payload:  
 https://www.virustotal.com/gui/file/f42e3406469f45d2b4b87f90a2b584f12018ba8e1fd29f7518748e901b5ddda9/detection
+
+This script spams randomly generated offsensive data to the C&C server of the malware sample described above.  
   
 ## WARNING(1): Do NOT use/modify this tool against innocent websites.
 I uploaded the script just for ppls to spam malicious sites only, in effort of taking those scumbags down or at least rendering their service unavailable.
